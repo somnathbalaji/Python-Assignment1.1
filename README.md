@@ -1,2 +1,3 @@
 # python-assignments
-All Python-I,II,III,IV assignments from Acadgild will be uploaded in this repository.
+
+This repository contains the screenshot of assignment 1.1 of Python class-I,II. 
